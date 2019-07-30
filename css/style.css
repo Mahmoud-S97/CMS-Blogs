@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+/*Registration*/
+
+.container-frm {
+  margin:150px auto 0px;
+  width:360px;
+  font-family:Arial,sans-seref;
+}
+
+.frm {
+  border:1px solid #DDD;
+  margin:10px;
+  padding:10px;
+  border-radius:5px;
+  background-color:#111;
+  color:#FFD;
+}
+
+.frm label {
+  display:block;
+  margin-left:8px;
+  padding-top:5px;
+  font-weight:bold;
+  color:#FFD;
+}
+
+.frm .input-fields .input {
+  width:90%;
+  height:36px;
+  margin:5px;
+  padding:5px;
+  outline:none;
+  font-size:15px;
+  border-radius:5px;
+  border:1px solid #CCC;
+}
+
+.frm input[type = 'submit']{
+  width:100px;
+    height:35px;
+    margin:7px;
+    background-color:orange;
+    border-radius:5px;
+    color:#FFF;
+    cursor:pointer;
+    border:none;
+    text-align:center;
+    font-size:16px;
+    
+}
+
+.frm input[type = 'submit']:hover,
+.frm input[type = 'submit'].active {
+  background-color:#e2bc77;
+  
+}
+
+.frm h2 {text-align:center; margin-bottom:40px}
+
+.frm p {
+  margin:5px;
+  font-size:13px;
+} 
+
+.frm p a{color:#125dabe8; font-size:12px;}
+
+
+
+
+
+
+
+
